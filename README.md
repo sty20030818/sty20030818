@@ -109,7 +109,8 @@ $ focus
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+---
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sty20030818)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🧠 做事风格
