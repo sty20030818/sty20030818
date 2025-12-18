@@ -1,120 +1,145 @@
-```bash
-$ whoami
-石头鱼 (sty20030818)  —  全栈工程师
-
-$ stack
-Nuxt · Vue · TypeScript · Node.js · Express · Docker · Nginx · Linux
-
-$ focus
-交付产品级 Web 应用 · 架构清晰可维护 · 打磨体验与性能
-```
+<!--
+✨ SYSTEM BOOT SEQUENCE INITIATED...
+✨ USER: STONE FISH (sty20030818)
+✨ THEME: TERMINAL / DARK OS
+-->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,nodejs,express,vite,docker,nginx,linux,git" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3D25F7A0%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DSystem.init(sty20030818)%3BLoading%2BStoneOS%2BKernel...%3BWelcome%2Bto%2Bthe%2BMatrix,%2BRecruiter.%3Becho%2B%2522Hello,%2BWorld!%2522" alt="Typing SVG" />
+</div>
 
-  <br/>
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sty20030818\&show_icons=true\&hide_title=true\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sty20030818\&layout=compact)
+  ____  _                      _____ _     _     
+ / ___|| |_ ___  _ __   ___   |  ___(_)___| |__  
+ \___ \| __/ _ \| '_ \ / _ \  | |_  | / __| '_ \ 
+  ___) | || (_) | | | |  __/  |  _| | \__ \ | | |
+ |____/ \__\___/|_| |_|\___|  |_|   |_|___/_| |_|
+                                                 
+      >>> FULL STACK ENGINEER | NUXT.JS SPECIALIST <<<
+
 
 </div>
 
----
+🟢 root@sty20030818:~$ whoami
 
-## ✅ 简介
+const stoneFish = {
+    role: "Full Stack Engineer",
+    status: "Ready to Commit (Code & Career)",
+    location: "Internet / Earth",
+    motto: "Coding creates worlds.",
+    humor_level: "High (Warning: May contain bad puns)",
+    hiring_availability: true // !!! SUDO HIRE ME !!!
+};
 
-我是一名全栈工程师，习惯用 **工程化思维**把事情做“稳”和做“快”。
 
-* **全栈交付**：页面 / 接口 / 数据 / 部署，一条链路打通
-* **工程质量**：规范化、组件化、可复用、可扩展
-* **体验与性能**：交互细节、加载速度、稳定性（日志/监控可持续演进）
+🟡 root@sty20030818:~$ cat /var/log/skills.log
 
----
+[SYSTEM DETECTED]: Heavy usage of Vue ecosystem & Node.js environment.
 
-## 🚀 精选项目
+Kernel (Core)
 
-### 🧩 stonehub · Nuxt — 个人网站 / 作品集
+Interface (Frontend)
 
-> 页面包含：**首页 / 项目 / 博客 / 此刻 / 关于我**
-> 内置 **模拟终端** + **AI 侧栏**，主打“展示 + 交互”一体化体验
+Server (Backend)
 
-* `亮点:` SSR/SEO · 组件化设计 · 信息架构 · 交互细节打磨
-* repo: [https://github.com/sty20030818/stonehub](https://github.com/sty20030818/stonehub)
+Tools (DevOps)
 
----
 
-### ✍️ stonefish.blog · Nuxt — 个人博客系统
 
-> 用于长期内容沉淀：结构清晰、可持续扩展、维护友好
 
-* `亮点:` 内容组织 · 主题结构可扩展 · 性能与可读性
-* repo: [https://github.com/sty20030818/stonefish.blog](https://github.com/sty20030818/stonefish.blog)
 
----
 
-### 🖥️ stoneOS · Nuxt — Web 端“OS”模拟系统
 
-> 把 **桌面 / 窗口 / 系统交互范式**搬到 Web：更沉浸、更有产品感
 
-* `亮点:` 复杂状态管理 · 模块化设计 · 沉浸式交互 · 可扩展“系统组件”
-* repo: [https://github.com/sty20030818/stoneOS](https://github.com/sty20030818/stonefish.os.lite)
 
----
 
-### 🏸 羽毛球在线约球平台 · Vue + Express — 全栈业务项目
 
-> 前后端一体：覆盖用户流程、数据管理、接口联调与部署落地
 
-* `亮点:` REST API 设计 · 鉴权/权限 · 业务闭环 · 可迭代架构
-* repo: （把你的仓库链接贴这里）
 
----
 
-## 🧰 技术栈
 
-**前端**
 
-* Nuxt / Vue / TypeScript / Pinia / Vite
-* SSR / SEO / 组件体系 / 状态管理 / 性能优化
 
-**后端**
 
-* Node.js / Express
-* REST API / 鉴权与权限 / 错误处理 / 日志与可观测性（可扩展）
 
-**工程化 & 运维**
 
-* Docker / Nginx / Linux
-* Git / 自动化脚本 / 基础 CI/CD 思路
 
----
 
-## 🧠 做事风格
 
-* **可读性 > 炫技**
-* **稳定交付 > 追新堆栈**
-* **小步迭代 > 大拆大改**
-* **度量 → 优化 → 迭代**
 
----
 
-## 🤝 机会
+🔵 root@sty20030818:~$ ls -la ./projects/featured/
 
-* Full-Stack / 前端方向
-* 需要“能把东西做出来并做稳”的团队与项目
+正在挂载核心项目模块...
 
----
+📁 StoneOS [Permission: 777]
 
-## 📫 联系方式
+Nuxt 全栈模拟操作系统
 
-* Email: [your@email.com](mailto:your@email.com)
-* Website: [https://your-site.com](https://your-site.com)
-* Blog: [https://stonefish.blog](https://stonefish.blog)
+这不仅是一个网页，这是一个试图在浏览器里重建宇宙的尝试。
 
-<details>
-  <summary><b>⚙️ 更多</b></summary>
+Features: 窗口管理系统、文件系统模拟、极客UI。
 
-* 我关注：架构清晰、交付效率、长期可维护性。
-* 我喜欢做：强交互体验（Terminal / OS 风 UI）、内容平台、全栈产品。
+Tech: Nuxt 3, TypeScript, Pinia.
 
-</details>
+📁 StoneHub [Status: Online]
+
+个人数字花园 / 赛博基地
+
+我的互联网入口。除了常规的博客展示，它还藏着一个模拟终端和一个AI 侧栏助手。
+
+Pages: Home, Projects, Blog, Now, About Me + Terminal/AI.
+
+Tech: Nuxt 3, TailwindCSS.
+
+📁 StoneFish.blog [Type: Memory Dump]
+
+纯粹的文字与技术沉淀
+
+记录 bug 修复日志，防止我再次踩进同一个坑。
+
+Tech: Nuxt Content, Markdown.
+
+📁 Badminton-Booking-Platform [Mode: SaaS]
+
+羽毛球在线约球平台
+
+解决“球友难找，场地难约”的世纪难题。全栈开发实战。
+
+Tech: Vue 3 (Frontend) + Express (Backend) + Database.
+
+🟣 root@sty20030818:~$ htop --user=sty20030818
+
+<div align="center">
+<!-- GitHub Stats Card (Dark Theme) -->
+<a href="https://github.com/sty20030818">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsty20030818%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Sty's Stats" />
+</a>
+
+
+
+
+
+
+<!-- Top Languages (Compact) -->
+
+<a href="https://github.com/sty20030818">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsty20030818%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26langs_count%3D6" alt="Top Languages" />
+</a>
+</div>
+
+🔴 root@sty20030818:~$ ./contact_me.sh
+
+如果您正在寻找一名能写出优雅代码的全栈工程师，或者想约一场羽毛球：
+
+🌐 Website: StoneHub
+
+📧 Email: 你的邮箱@example.com
+
+🐙 Github: @sty20030818
+
+<!--
+System shutdown sequence complete.
+Have a nice day.
+-->
