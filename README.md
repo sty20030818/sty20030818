@@ -110,7 +110,7 @@ $ focus
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
-[![My-coding-time](https://github-readme-stats.vercel.app/api/wakatime?username=StoneFish)](https://github.com/anuraghazra/github-readme-stats?layout=compact)
+[![My-coding-time](https://github-readme-stats.vercel.app/api/wakatime?username=StoneFish&layout=compact&custom_title=My-coding-time)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🧠 做事风格
