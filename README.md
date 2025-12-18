@@ -57,7 +57,7 @@ $ focus
 > 把 **桌面 / 窗口 / 系统交互范式**搬到 Web：更沉浸、更有产品感
 
 * `亮点:` 复杂状态管理 · 模块化设计 · 沉浸式交互 · 可扩展“系统组件”
-* repo: [https://github.com/sty20030818/stoneOS](https://github.com/sty20030818/stoneOS)
+* repo: [https://github.com/sty20030818/stoneOS](https://github.com/sty20030818/stonefish.os.lite)
 
 ---
 
