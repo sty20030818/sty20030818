@@ -84,7 +84,7 @@ $ focus
 ## 🧰 Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,nodejs,express,vite,docker,nginx,linux,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,nextjs,tailwind,vite,nuxt,pnpm,npm,pinia,nodejs,express,bun,mysql,postgres,mongodb,redis,prisma,postman,nginx,linux,ubuntu,git,docker,github,powershell,vscode" />
 </div>
 
 ---
@@ -95,9 +95,8 @@ $ focus
 
 <img src="https://github-readme-stats.vercel.app/api?username=sty20030818&show_icons=true&hide_title=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sty20030818&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sty20030818&layout=compact&custom_title=我常用的语言" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sty20030818" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sty20030818" />
 
@@ -106,20 +105,7 @@ $ focus
 ---
 
 ## ⏱️ 写代码的时间
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   21 hrs 15 mins  ████████████████▓░░░░░░░░   66.28 %
-Vue.js       4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Markdown     3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-JSON         1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-CSS          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-```
-
-<!--END_SECTION:waka-->
----
-[![My-coding-time](https://github-readme-stats.vercel.app/api/wakatime?username=StoneFish&layout=compact&custom_title=My-coding-time&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+[![My-coding-time](https://github-readme-stats.vercel.app/api/wakatime?username=StoneFish&layout=compact&custom_title=My-coding-times&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🧠 做事风格
@@ -140,9 +126,9 @@ CSS          57 mins         ▓░░░░░░░░░░░░░░░░
 
 ## 📫 联系方式
 
-* Email: [your@email.com](mailto:your@email.com)
-* Website: [https://your-site.com](https://your-site.com)
-* Blog: [https://stonefish.blog](https://stonefish.blog)
+* Email: [sty2985707459@gmail.com](mailto:sty2985707459@gmail.com)
+* Website: [https://sty20030818.space](https://sty20030818.space)
+* Blog: [https://blog.sty20030818.space](https://blog.sty20030818.space)
 
 <details>
   <summary><b>⚙️ 更多</b></summary>
