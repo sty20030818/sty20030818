@@ -108,6 +108,15 @@ $ focus
 ## ⏱️ 写代码的时间
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   21 hrs 15 mins  ████████████████▓░░░░░░░░   66.28 %
+Vue.js       4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Markdown     3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+JSON         1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+CSS          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+```
+
 <!--END_SECTION:waka-->
 ---
 [![My-coding-time](https://github-readme-stats.vercel.app/api/wakatime?username=StoneFish&layout=compact&custom_title=My-coding-time&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
