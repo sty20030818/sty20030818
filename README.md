@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=石头鱼%20StoneFish&fontSize=54&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20Nuxt%2FVue%2FNode%20·%20Ship%20Product-Grade%20Web%20Apps&descAlignY=62&animation=twinkling" /> -->
-
-![StoneFish](./Header.png)
+<img src="https://pic.sty20030818.space/StoneFish.jpg" />
 
 <p>
   <a href="https://github.com/sty20030818"><img src="https://img.shields.io/badge/GitHub-sty20030818-111?style=for-the-badge&logo=github" /></a>
