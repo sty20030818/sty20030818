@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pic.sty20030818.space/StoneFish.jpg" />
+<img src="https://pic.sty20030818.space/StoneFish.png" />
 
 <p>
   <a href="https://github.com/sty20030818"><img src="https://img.shields.io/badge/GitHub-sty20030818-111?style=for-the-badge&logo=github" /></a>
