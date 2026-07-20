@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://pic.sty20030818.space/StoneFish.png" />
+<picture>
+  <source srcset="assets/StoneFish.webp" type="image/webp" />
+  <img src="https://pic.sty20030818.space/StoneFish.png" alt="StoneFish" />
+</picture>
 
 <p>
   <a href="https://github.com/sty20030818"><img src="https://img.shields.io/badge/GitHub-sty20030818-111?style=for-the-badge&logo=github" /></a>
